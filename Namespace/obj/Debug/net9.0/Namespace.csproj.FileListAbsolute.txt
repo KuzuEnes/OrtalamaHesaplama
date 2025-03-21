@@ -1,0 +1,15 @@
+/Users/enes/RiderProjects/AkademiQ/Namespace/bin/Debug/net9.0/Namespace
+/Users/enes/RiderProjects/AkademiQ/Namespace/bin/Debug/net9.0/Namespace.deps.json
+/Users/enes/RiderProjects/AkademiQ/Namespace/bin/Debug/net9.0/Namespace.runtimeconfig.json
+/Users/enes/RiderProjects/AkademiQ/Namespace/bin/Debug/net9.0/Namespace.dll
+/Users/enes/RiderProjects/AkademiQ/Namespace/bin/Debug/net9.0/Namespace.pdb
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/Namespace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/Namespace.AssemblyInfoInputs.cache
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/Namespace.AssemblyInfo.cs
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/Namespace.csproj.CoreCompileInputs.cache
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/Namespace.sourcelink.json
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/Namespace.dll
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/refint/Namespace.dll
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/Namespace.pdb
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/Namespace.genruntimeconfig.cache
+/Users/enes/RiderProjects/AkademiQ/Namespace/obj/Debug/net9.0/ref/Namespace.dll
