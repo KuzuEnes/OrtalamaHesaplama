@@ -1,0 +1,14 @@
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/bin/Debug/net9.0/OrtalamaHesaplama
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/bin/Debug/net9.0/OrtalamaHesaplama.deps.json
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/bin/Debug/net9.0/OrtalamaHesaplama.runtimeconfig.json
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/bin/Debug/net9.0/OrtalamaHesaplama.dll
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/bin/Debug/net9.0/OrtalamaHesaplama.pdb
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/OrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/OrtalamaHesaplama.AssemblyInfoInputs.cache
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/OrtalamaHesaplama.AssemblyInfo.cs
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/OrtalamaHesaplama.dll
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/refint/OrtalamaHesaplama.dll
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/OrtalamaHesaplama.pdb
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/OrtalamaHesaplama.genruntimeconfig.cache
+/Users/enes/RiderProjects/AkademiQ/OrtalamaHesaplama/obj/Debug/net9.0/ref/OrtalamaHesaplama.dll
